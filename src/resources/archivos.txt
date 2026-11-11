@@ -1,0 +1,5 @@
+Hotel Pedro;Santiago;46000
+Hotel Ascui;Santiago;35000
+Hotel Fenner;Valparaiso;25000
+Hotel Gonzales;Frutillar;20000
+Hotel Manriquez;Valparaiso;17000
